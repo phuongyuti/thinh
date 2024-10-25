@@ -2,21 +2,21 @@
 <html>
     <head>
          <meta charset="UTF-8">
-         <title>Yutiuwu</title>
+         <title>thinhwebsite</title>
     </head>
     <header>
-         <h1>Chào mừng thầy và các bạn</h1>
-         <h1>đã đến với website của em</h1>
+         <h1>Chào mừng thầy và các bạn đến với website của em</h1>
     </header>
     <body>
-          <h2>Về bản thân em</h2>
-          <h3>Là học sinh trường THPT Tân An</h3>
-          <h2>Sở thích</h2>
-          <h3>Đọc sách, tiểu thuyết, truyện tranh, xem phim hoạt hình, chơi game, học Piano, nghe nhạc</h3>
-          <h3>môn học yêu thích là Anh Văn</h3>
+          <h3>Em hiện nay đang là học sinh và học tại trường THPT Tân An</h3>
+          <h2>Môn học yêu thích:</h2>
+          <h3>trong tất cả mộn học trên trường, em thích nhất là môn Toán</h3>
+          <h2>Sở thích:</h2>
+          <h3>nghe nhạc, chơi thể thao, chơi trò chơi điện tử, đọc sách</h3>
+          <h3></h3>
     </body>
     <footer>
-    <h1>Cảm ơn thầy và các bạn đã đọc</h1>
-    <h3>website không hề sử dụng AI</h3>
+    <h1>Cảm ơn thầy và các bạn đã xem</h1>
+    <h5>website được làm bởi Thịnh</h5>
     </footer>
 </html>
